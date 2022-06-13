@@ -1,11 +1,14 @@
 <div align="center">
   
-### Hello World!
+### Hello World! :earth_americas:
 
-## Oi! Eu sou Camila e sou Desenvolvedora Front-end, tudo bem com você?
+## Oi! Eu sou Camila, tudo bem com você?
 </div>
 
-
+- Desenvolvedora Fronte-end :woman_technologist:
+- Mora em João Pessoa- Paraíba :parasol_on_ground:
+- Em transição de carreira 	:arrows_counterclockwise:
+ 
 
 <div align="center">
   <a href="https://github.com/camilamaraschin">
