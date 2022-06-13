@@ -1,6 +1,12 @@
-### Hello Word!
+<div align="center">
+  
+### Hello World!
 
 ## Oi! Eu sou Camila e sou Desenvolvedora Front-end, tudo bem com você?
+</div>
+
+
+
 <div align="center">
   <a href="https://github.com/camilamaraschin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilamaraschin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
