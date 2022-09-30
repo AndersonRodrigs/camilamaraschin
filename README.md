@@ -5,14 +5,25 @@
 
 <br>
 <div>
-    
-   <blockquote>Sou desenvolvedora Front-end e prático o aprendizado contínuo.  Desenvolvo projetos pessoais para criar uma experiência sólida
+    <blockquote>Sou desenvolvedora Front-end e prático o aprendizado contínuo.  Desenvolvo projetos pessoais para criar uma experiência sólida
    enquanto busco novos desfios na área de tecnologia
-   para agregar todas as minhas skills, que vão além de skills técnicas. <b>Meu objetivo é no futuro próximo me tornar desenvolvedora Fullstack</b>.</blockquote>
+   para agregar todas as minhas skills, que vão além de skills técnicas. <b>Meu objetivo é no futuro próximo me tornar desenvolvedora Fullstack</b>.</blockquote> <br> <br>
+ 
+ - 📚 Atualmente estou aprendendo sobre: CSS usando os pré-processadores SASS e LESS , JavaScript e JQuery e Angular;
+- 🎯 Próximos tópicos que planejo estudar:TypeScript, Java e Figma
+- 📃 Veja meus certificados: [Meus Certificados](https://github.com/camilamaraschin/certificados)
 </div>
 
-<section align="center"><h3>🌐 Conecte-se comigo:</h3> 
+<div>
+ <h3>  Formações  </h3>
+<b> - DevQuest - Dev em dobro <br>
+ - Rocketseat <br>
+ - Staart <br>
+ - Capgemini <br>
+ - StartSe <br>
+ </b></div>
 
+<section align="center"><h3>🌐 Conecte-se comigo:</h3> 
   <a href="https://www.linkedin.com/in/camilamaraschin/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="25" alt="linkedin logo"  />
   </a>
@@ -25,7 +36,6 @@
   <a href="https://codepen.io/camilamaraschin" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="38" height="25" alt="codepen logo"  />
   </a>
-
 </section>
 
 ---
@@ -40,6 +50,8 @@
 
 ####
 
+ 
+
 
 
 <div align="center">
@@ -52,8 +64,5 @@
 </div>
 
 ###
- 
- 
-</div>
 
 
