@@ -3,21 +3,16 @@
 ## Hi, I'm Camila  <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/cat-gif.gif" width="50">
 </div>
 
-- Desenvolvedora Fronte-end :woman_technologist:
-- Mora em João Pessoa- Paraíba :parasol_on_ground:
-- Em transição de carreira 	:arrows_counterclockwise:
- 
-
-<div align="center">
-  <a href="https://github.com/camilamaraschin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilamaraschin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilamaraschin&layout=compact&langs_count=7&theme=dark"/>
+<br>
+<div>
+    
+   <blockquote>Sou desenvolvedora Front-end e prático o aprendizado contínuo.  Desenvolvo projetos pessoais para criar uma experiência sólida
+   enquanto busco novos desfios na área de tecnologia
+   para agregar todas as minhas skills, que vão além de skills técnicas. <b>Meu objetivo é no futuro próximo me tornar desenvolvedora Fullstack</b>.</blockquote>
 </div>
 
+<section align="center"><h3>🌐 Conecte-se comigo:</h3> 
 
-####
-
-<div align="center">
   <a href="https://www.linkedin.com/in/camilamaraschin/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="25" alt="linkedin logo"  />
   </a>
@@ -30,9 +25,22 @@
   <a href="https://codepen.io/camilamaraschin" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="38" height="25" alt="codepen logo"  />
   </a>
+
+</section>
+
+---
+ 
+
+<div align="center">
+  <a href="https://github.com/camilamaraschin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilamaraschin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilamaraschin&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-###
+
+####
+
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
